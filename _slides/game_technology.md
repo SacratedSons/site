@@ -1,8 +1,8 @@
 ---
 layout: slides
-title : Τεχνολογια των παιχνιδιων
+title : Τεχνολογία των παιχνιδιών
 image_url: /images/spacewar-playStation.png
-caption: Διαφανειες για το κεφαλαιο Τεχνολογια των παιχνιδιων
+caption: Διαφάνειες για το κεφάλαιο Τεχνολογία των παιχνιδιν
 slides:
  - playStation games
  - nitendo games
