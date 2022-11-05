@@ -10,4 +10,4 @@ events:
  - memory card.
  - gamepads.
  - cd player.
- ---
+---
