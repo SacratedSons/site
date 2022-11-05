@@ -1,8 +1,8 @@
 ---
 layout: slides
-title: Εφαρμογες της Apple
+title: Εφαρμογές της Apple
 image_url: /images/itunes.jpg
-caption: Διαφάνειες για το κεφαλαιο εφαρμογες της Apple
+caption: Διαφάνειες για το κεφάλαιο εφαρμογς της Apple
 slides:
    - Apple health
    - Apple store
