@@ -10,3 +10,4 @@ events:
   -new-generation
   -informatics-system
   -telecommunications
+---
